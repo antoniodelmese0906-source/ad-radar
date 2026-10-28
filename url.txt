@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://humor-plc-farmers-issue.trycloudflare.com
