@@ -12,7 +12,11 @@ img{width:72px;height:72px;border-radius:18px;box-shadow:0 0 30px #5663ff66}
 a{color:#98a4ff}
 p{color:#8f929b}
 </style>
-<script>location.replace("https://convert-parent-prostores-fur.trycloudflare.com" + location.pathname.replace(/^\/ad-radar/, "") + location.search);</script>
+<script>
+var go = new URLSearchParams(location.search).get("go") || "/";
+if (!/^\/[\w\/\-?=&%.]*$/.test(go)) go = "/";
+location.replace("https://convert-parent-prostores-fur.trycloudflare.com" + go);
+</script>
 </head>
 <body>
 <div>
