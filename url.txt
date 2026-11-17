@@ -1,1 +1,1 @@
-https://inc-refugees-norm-money.trycloudflare.com
+https://api.trycloudflare.com
