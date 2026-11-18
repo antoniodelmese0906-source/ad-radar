@@ -1,1 +1,1 @@
-https://continuous-dos-teams-auction.trycloudflare.com
+https://api.trycloudflare.com
