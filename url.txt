@@ -1,1 +1,1 @@
-https://marcus-technical-oaks-cost.trycloudflare.com
+https://api.trycloudflare.com
