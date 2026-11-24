@@ -1,1 +1,1 @@
-https://belts-words-eagles-mono.trycloudflare.com
+https://api.trycloudflare.com
